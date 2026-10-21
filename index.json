@@ -1,0 +1,11 @@
+{
+  "org": "py-pdf",
+  "repo": "pypdf_table_extraction",
+  "versions": [
+    {
+      "commit": "3aa87032bf37d7a7e9a0d96c07e3151017168d47",
+      "tag": "",
+      "parsed_at": "2026-10-21T00:43:44.582052+00:00"
+    }
+  ]
+}
